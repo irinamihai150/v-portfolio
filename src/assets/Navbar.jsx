@@ -2,7 +2,7 @@ function Navbar() {
 	return (
 		<div>
 			{/* navigation */}
-			<nav className='overflow-hidden flex font-bold'>
+			<nav className='overflow-hidden flex font-bold m-4'>
 				<div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
 					<ul className='flex justify-between h-16 text-left'>
 						<li>
