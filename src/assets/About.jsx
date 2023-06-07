@@ -25,8 +25,8 @@ function About() {
 						thrilled to embark on my journey as a software developer and put
 						into practice the skills and knowledge I have acquired through my
 						intensive training. Throughout the program, I have gained
-						proficiency in various programming languages, including Javascript,
-						and have honed my expertise in both front-end and back-end web
+						proficiency in Javascript,
+						and have polished my expertise in both front-end and back-end web
 						development. One of the most valuable aspects of the training was
 						the opportunity to work on real-world projects, both independently
 						and as part of a team. This experience has helped me cultivate
