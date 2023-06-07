@@ -21,21 +21,22 @@ function About() {
 				<div className='w-full sm:w-1/2 pr-4'>
 					<h2 className='text-5xl text-center'>ABOUT ME</h2>
 					<p className='p-4 text-right text-3xl sm:text-left mx-10'>
-						Hello, my name is IRINA MIHAI, and I am a graduate of a software
-						Bootcamp. I am excited to begin my journey as a software developer
-						and apply the skills and knowledge I have gained from my intensive
-						training. Through the training program, I have learned how to code
-						using various programming languages, such as Javascript. I have also
-						gained experience in front-end and back-end web development. One of
-						the most valuable aspects of the training program was the
-						opportunity to work on real projects, both individually and in a
-						team setting. This allowed me to develop collaboration skills, which
-						are crucial in the software development industry. I am eager to
-						contribute to the tech industry. I am continually learning and
-						exploring new technologies to enhance my skills and stay current
-						with industry trends. Thank you for taking the time to read my
-						introduction, and I look forward to discussing potential
-						opportunities further.
+						Hello! As a recent graduate of a software training program, I am
+						thrilled to embark on my journey as a software developer and put
+						into practice the skills and knowledge I have acquired through my
+						intensive training. Throughout the program, I have gained
+						proficiency in various programming languages, including Javascript,
+						and have honed my expertise in both front-end and back-end web
+						development. One of the most valuable aspects of the training was
+						the opportunity to work on real-world projects, both independently
+						and as part of a team. This experience has helped me cultivate
+						strong collaboration skills, which I consider essential in the
+						software development industry. I am enthusiastic about contributing
+						to the technology sector and remain dedicated to continuous learning
+						and exploration of new technologies to enhance my skill set and stay
+						abreast of industry trends. Thank you for taking the time to read my
+						introduction, and I eagerly look forward to further discussing
+						potential opportunities
 					</p>
 				</div>
 				<div className='w-full sm:w-1/2 mt-5 sm:mt-0'>
