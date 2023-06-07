@@ -33,8 +33,7 @@ function About() {
 						strong collaboration skills, which I consider essential in the
 						software development industry. I am enthusiastic about contributing
 						to the technology sector and remain dedicated to continuous learning
-						and exploration of new technologies to enhance my skill set and stay
-						abreast of industry trends. Thank you for taking the time to read my
+						and exploration of new technologies to enhance my skill set. Thank you for taking the time to read my
 						introduction, and I eagerly look forward to further discussing
 						potential opportunities
 					</p>
