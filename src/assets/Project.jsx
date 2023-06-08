@@ -156,7 +156,7 @@ function Project() {
 '
 						>
 							<a
-								href='https://hotel-react-m.netlify.app/'
+								href='https://quotes-react-app-irinam.netlify.app/'
 								target='_blank'
 								rel='noopener noreferrer'
 								className='hover:text-purple-600'
