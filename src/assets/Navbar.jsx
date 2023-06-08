@@ -7,7 +7,7 @@ function Navbar() {
 					<ul className='flex justify-between h-16 text-left'>
 						<li>
 							<a
-								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-300 text-black'
+								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black hover:text-white'
 								href='#home'
 							>
 								Home
@@ -15,7 +15,7 @@ function Navbar() {
 						</li>
 						<li>
 							<a
-								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black'
+								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black hover:text-white'
 								href='#about'
 							>
 								About
@@ -23,7 +23,7 @@ function Navbar() {
 						</li>
 						<li>
 							<a
-								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black'
+								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black hover:text-white'
 								href='#projects'
 							>
 								Projects
@@ -31,7 +31,7 @@ function Navbar() {
 						</li>
 						<li>
 							<a
-								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black'
+								className='text-3xl flex-shrink-0 block text-gray-700 text-center px-4 py-2 hover:bg-purple-600 text-black hover:text-white'
 								href='#contact'
 							>
 								Contact
